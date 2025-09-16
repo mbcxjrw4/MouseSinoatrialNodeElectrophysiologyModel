@@ -1,6 +1,6 @@
 # MouseSinoatrialNodeElectrophysiologyModel
 A set of mathematical models simulating the electrophysiological activity of the mouse sinoatrial node (SAN) and surrounding atrial tissue, from single-cell (0D) level to 2D tissue level.
-This work supported published research on Sick Sinus Syndrome ([Publication](https://pubmed.ncbi.nlm.nih.gov/30259525/)).
+This work supported published research on Sick Sinus Syndrome ([TBX18 overexpression enhances pacemaker function in a rat subsidiary atrial pacemaker model of sick sinus syndrome](https://pubmed.ncbi.nlm.nih.gov/30259525/)).
 
 ## 🧪 Overview
 
