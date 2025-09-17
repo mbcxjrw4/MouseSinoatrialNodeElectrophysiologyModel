@@ -11,7 +11,9 @@ This work supported published research on Sick Sinus Syndrome ([TBX18 overexpres
 - 2D Tissue models (mouse2D.c, mouse2D_operator_splitting.c): Simulate electrical conduction and pacemaking in a 2D SAN–atrium tissue sheet. Includes an operator-splitting method for efficient stiff ODE integration.
 
 ## ⚡ Features
-
+- Modular, extensible C implementation using object-oriented design
+  - `cell` base structure with `san_cell` and `atrium_cell` child structures
+  
 - Parallel simulation using OpenMP
 
 - ODE solving via CVODE (from SUNDIALS)
