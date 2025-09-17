@@ -12,7 +12,8 @@ This work supported published research on Sick Sinus Syndrome ([TBX18 overexpres
 
 ## ⚡ Features
 - Modular, extensible C implementation using object-oriented design
-  - `MY_CELL` base structure with `SAN` and `ATRIUM` child structures
+  - **`MY_CELL`** — Base structure defining common electrophysiological properties and methods.
+  - **`SAN` / `ATRIUM`** — Specialized structures inheriting from `cell` with region-specific parameters.
   
 - Parallel simulation using OpenMP
 
